@@ -1,2 +1,34 @@
-# OpenSearch-SOC-Dashboard-Project
-Deployed OpenSearch from scratch on Kali Linux with web interface. Configured log aggregation from firewall and DHCP servers. Created dashboards for network traffic visualization and security monitoring.
+# 👋 Привет, я Андрей Зайцев
+
+## 🛡️ Будущий SOC-аналитик | Энтузиаст кибербезопасности
+
+Добро пожаловать на мой GitHub! Я увлечен сетевой безопасностью, обнаружением угроз и созданием практических проектов в области кибербезопасности.
+
+---
+
+### 🔧 Что я делаю
+- 🖥️ **OpenSearch SOC Dashboard** — Развернул OpenSearch на Kali Linux для агрегации логов безопасности и визуализации
+- 🌐 Мониторинг сети и анализ пакетов с помощью Wireshark и Nmap
+- 🐧 Безопасность Linux и работа с командной строкой
+
+### 🛠️ Инструменты и технологии
+- **ОС:** Kali Linux, Windows
+- **Инструменты безопасности:** OpenSearch, Nmap, Wireshark
+- **Сети:** DHCP, настройка межсетевых экранов, анализ пакетов
+- **Другое:** Агрегация логов, настройка дашбордов
+
+### 📂 Мои проекты
+- **[OpenSearch SOC Dashboard](https://github.com/sleepyzcyber/OpenSearch-SOC-Dashboard-Project)** — Полное развертывание OpenSearch на Kali с веб-интерфейсом
+
+---
+
+### 📫 Связаться со мной
+- 📧 Pandaandrey2004@gmail.com
+- 📍 Москва, Россия
+---
+
+⚡ **Интересный факт:** Я развернул этот OpenSearch дашборд полностью с нуля, используя только командную строку!
+
+---
+
+*"Каждый эксперт когда-то был новичком."*
